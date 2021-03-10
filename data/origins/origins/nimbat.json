@@ -1,0 +1,25 @@
+{
+	"powers": [
+		"origins:aerial_combatant",
+		"origins:elytra",
+		"origins:fresh_air",
+		"origins:climbing",
+		"origins:launch_into_air",
+		"origins:hunger_over_time",
+		"origins:more_exhaustion",
+		"origins:vegetarian",
+		"origins:fall_immunity",
+		"origins:no_shield",
+		"extraorigins:bite_sized",
+		"extraorigins:bite_sized_dummy",
+		"extraorigins:large_head",
+		"extraorigins:short_arms"
+	],
+	"name": "Nimbat",
+	"description": "Be a tiny little nimbat capable of flying to great heights. However they are also small, fragile, constantly hungry, can't eat meat, and can only wear light armor.",
+
+	"icon": "minecraft:feather",
+	"order": 4,
+	"impact": 3
+
+}
