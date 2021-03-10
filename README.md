@@ -1,22 +1,14 @@
-> __NOTE:__ If you happen to use this template, make sure to replace the Kofi username inside the `.github/FUNDING.yml` file :)
-
-# Projectname
-
-> A Minecraft 1.16.x data pack that
+> A Minecraft 1.16.5 data pack that that adds a nimbat themed origin option.
 
 ## Installation
 
-Download the latest release from [here][latest] and put the datapack zip file into the `datapacks` folder of your Minecraft world. Download the resourcepack zip file (if available) and enable the pack in your client.
-
-I usually provide resourcepacks to allow translations of my datapacks :)
-
-## Crafting
+This datapack requires the use of Fabric, Origins, and Extra Origins (including all dependancies to function).
 
 ## FAQ
 
 ## Uninstallation
 
-To uninstall the datapack, run the `zerotask:REPLACE/uninstall` function and remove the datapack from your world save. Afterwards, run `reload`.
+To uninstall the datapack simply remove the datapack .zip file from your datapacks folder.
 
 ## License
 
